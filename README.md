@@ -1,5 +1,3 @@
-# Jordan Elliott's Portfolio
-
 ### [Project 1: Google Analytic's Cyclistic Case Study](https://github.com/jordan-elliott21/Cyclistic-Case-Study/blob/main/README.md)
 - Compared the difference in riding habits between casual riders and riders with monthly reoccurring memberships. Cyclistic’s intentions for this study is to try and convert casual riders to monthly members.
 - Used SQL to sort, clean, and manipulate data.
