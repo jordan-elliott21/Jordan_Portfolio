@@ -1,2 +1,4 @@
-# Jordan_Portfolio2
-Jordan's Portfolio
+# Jordan Elliott's Portfolio
+
+### Project 1: Google Analytic's Cyclistic Case Study
+
