@@ -7,5 +7,3 @@
 - Offered my recommended marketing solutions to convert casual riders to monthly subscribers.
 
 ![Screenshot MAP](https://user-images.githubusercontent.com/99245093/152954776-9fe0023c-8275-491c-a910-77dec63d276a.png)
-
-
