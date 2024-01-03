@@ -6,7 +6,7 @@
 - Old SaaS version would take between 5 to 10 minutes to run the simulation, this version only takes about 10 seconds.
 
 
-### [Project 1: Understanding Guitar Tablature and Popularity](https://github.com/jordan-elliott21/Guitar_Tablature_Project/blob/main/Guitar%20Spotify%20Project.ipynb)
+### [Project 2: Understanding Guitar Tablature and Popularity](https://github.com/jordan-elliott21/Guitar_Tablature_Project/blob/main/Guitar%20Spotify%20Project.ipynb)
 - Used Python’s Pandas and NumPy, to aggregate and join Spotify and guitar tablature data into 5 different structures for calculations and analysis.
 - Crafted 12 supporting visualizations by using Matplotlib and Seaborn libraries.
 - Executed data cleaning processes, which led to a 112% increase in the number of useable rows of data when joined.
@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/99245093/170218172-d3f57b01-4987-4011-b36f-76932a1d39d2.png)
 
 
-### [Project 2: Google Analytic's Cyclistic Case Study](https://github.com/jordan-elliott21/Cyclistic-Case-Study/blob/main/README.md)
+### [Project 3: Google Analytic's Cyclistic Case Study](https://github.com/jordan-elliott21/Cyclistic-Case-Study/blob/main/README.md)
 - Compared the difference in riding habits between casual riders and riders with monthly reoccurring memberships. Cyclistic’s intentions for this study is to try and convert casual riders to monthly members.
 - Used SQL to sort, clean, and manipulate data.
 - Used and combined 12 months of public data about bike sharing statistics in the Chicago area.
