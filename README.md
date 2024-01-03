@@ -1,6 +1,6 @@
 # Jordan Elliott's Portfolio
 
-###[Project 1: Estimating Monte Carlo Simulation](https://github.com/jordan-elliott21/Estimating-Monte-Carlo-Simulation/blob/main/Monte_Carlo.ipynb)
+### [Project 1: Estimating Monte Carlo Simulation](https://github.com/jordan-elliott21/Estimating-Monte-Carlo-Simulation/blob/main/Monte_Carlo.ipynb)
 - Used Python's Pandas, Numpy, and Matplotlib to create a monte carlo simulation that takes random results of a minimum, most likely, and maximum value following a PERT Distribution and calculates statistics.
 - Created to replace an old SaaS that was costing tens of thousands of dollars.
 - Old SaaS version would take between 5 to 10 minutes to run the simulation, this version only takes about 10 seconds.
