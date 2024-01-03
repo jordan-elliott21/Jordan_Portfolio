@@ -1,5 +1,10 @@
 # Jordan Elliott's Portfolio
 
+###[Project 1: Estimating Monte Carlo Simulation](https://github.com/jordan-elliott21/Estimating-Monte-Carlo-Simulation/blob/main/Monte_Carlo.ipynb)
+- Used Python's Pandas, Numpy, and Matplotlib to create a monte carlo simulation that takes random results of a minimum, most likely, and maximum value following a PERT Distribution and calculates statistics.
+- Created to replace an old SaaS that was costing tens of thousands of dollars.
+- Old SaaS version would take between 5 to 10 minutes to run the simulation, this version only takes about 10 seconds.
+
 
 ### [Project 1: Understanding Guitar Tablature and Popularity](https://github.com/jordan-elliott21/Guitar_Tablature_Project/blob/main/Guitar%20Spotify%20Project.ipynb)
 - Used Python’s Pandas and NumPy, to aggregate and join Spotify and guitar tablature data into 5 different structures for calculations and analysis.
